@@ -1,5 +1,13 @@
 # Pheonixtool
 Chrome Extension to Verify the autenticity of the current site.
+Its fast and secure way to check the safey status of any active website just by one click.
+
+
+it uses Java Spring BOOT MVC, javascript,json,jpa,postgresql DB.
+ 
+
+
+
 
 
 
