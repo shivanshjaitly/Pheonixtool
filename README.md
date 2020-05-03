@@ -18,12 +18,12 @@ Steps to ADD THE EXTENTION TO YOUR CHROME BROWSER
 
 
 Step to START the shreyaaurl java application(at:localhost\9090) which backs the extention:
-- Requirement Postgresql [ or all the application properities can be changed acording to your sql service(ask the owner)]
+- Requirement Postgresql [ or all the application properities can be changed according to your sql service(ask the owner{comment})]
 - Its a Spring boot application
 - unzip the shreyaaurl 
 - load it your java ide( ellipse was used for making)
 - configure all the necessary dependancies
-- Run the shreyaaurlApplication.java as a java application ( the spring boot turns of the tomcat server which is required for extention execution
+- Run the shreyaaurlApplication.java as a java application ( the spring boot turns on the tomcat server which is required for extention execution
 
 
 Steps to create DATABASE
